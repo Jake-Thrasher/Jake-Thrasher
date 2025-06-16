@@ -3,9 +3,6 @@
 ##  Student at The University of North Alabama 
 
 - 🌍  I'm based in Florence, AL
-- 
-<a href="https://www.github.com/barrycumbie" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/barrycumbie?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 
 ### Socials  
 
