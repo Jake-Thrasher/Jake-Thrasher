@@ -1,10 +1,40 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jake Thrasher 
+# Jake Thrasher - Developer Profile
 
-##  Student at The University of North Alabama 
+Welcome to my personal developer profile website! This site showcases who I am as a developer, highlights one of my favorite projects, and provides links to play the game and view its source code.
 
-- 🌍  I'm based in Florence, AL
+---
 
-### Socials  
+## Featured Project: Emoji Match Game
 
+A emoji memory matching game that tests your memory skills. Try to match all pairs to win.
 
-<p align="left"> <a href="https://www.github.com/Jake-Thrasher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/JakeThrasher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+- [Play the Game](https://jake-thrasher.github.io/matching-game/)
+- [View Source Code](https://github.com/Jake-Thrasher/matching-game)
+
+---
+
+## Tech Stack
+
+- HTML5
+- CSS
+- JavaScript
+- Bootstrap 5
+
+---
+
+## Accessibility
+
+- [Nu HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjake-thrasher.github.io%2FJake-Thrasher%2F)
+- [WAVE Accessibility Tool](https://wave.webaim.org/report#/https://jake-thrasher.github.io/Jake-Thrasher/)
+
+---
+
+## Socials
+
+Feel free to check out my GitHub profile and other projects:
+
+- [GitHub Profile](https://github.com/Jake-Thrasher)
+
+---
+
+*Made by Jake Thrasher*
