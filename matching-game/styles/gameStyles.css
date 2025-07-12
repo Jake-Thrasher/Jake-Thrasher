@@ -1,0 +1,53 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+  background-color: #ffffff;
+  color: #111111;
+}
+
+#gameBoard {
+  display: grid;
+  grid-template-columns: repeat(4, 100px);
+  gap: 15px;
+  justify-content: center;
+}
+
+.card {
+  width: 100px;
+  height: 100px;
+  background-color: #ffffff;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #000000;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  background-color: #e0e0e0;
+}
+
+.hidden {
+  background-color: #000000;
+  color: #000000;
+}
+
+.matched {
+  border: 2px solid green;
+}
+
+footer a {
+  margin: 0 10px;
+  color: #0000ee;
+  text-decoration: underline;
+}
+
+h1.navbar-brand {
+  color: #0000ee !important;
+}
+
+#playerName {
+  text-align: center;
+}
