@@ -1,26 +1,9 @@
-document.addEventListener("DOMContentLoaded", () => {
-  console.log("hello console!");
-  addExampleBlogEntry();
-  setStandardCookie();
-  displayUserProfile();
-});
-
-function addExampleBlogEntry() {
-  const blogEntries = document.getElementById("blog-entries");
-  if (blogEntries) {
-    const entry = document.createElement("div");
-    entry.className = "blog-entry";
-    entry.innerHTML = `
-		<h5><i class=""></i> I am exited to continue learning new skills</h5>
-			<p>Thank you for visiting!</p>
-		`
-
-    blogEntries.append(entry);
+const toggleBtn = document.getElementById('modeToggle');
+toggleBtn.addEventListener('click', () => {
+  document.body.classList.toggle('dark-mode');
+  if (document.body.classList.contains('dark-mode')) {
+    toggleBtn.textContent = 'Light Mode';
+  } else {
+    toggleBtn.textContent = 'Dark Mode';
   }
-}
-
-function setStandardCookie() {
-}
-
-function displayUserProfile() {
-}
+});
